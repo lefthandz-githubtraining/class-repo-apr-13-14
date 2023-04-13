@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Caption here. Today is a fine day.
 おはようございます。
 難しいなあ。
 
