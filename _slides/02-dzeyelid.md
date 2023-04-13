@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+朝ごはんはランチパックでした🥪:sparkles:
 
 ![octofez](https://octodex.github.com/images/octofez.png)
 {: .center}
