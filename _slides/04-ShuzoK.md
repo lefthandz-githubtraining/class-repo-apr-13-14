@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-テストです。
+Caption here. Today is a fine day. テストです。
 おはようございます。
 難しいなあ。
 
